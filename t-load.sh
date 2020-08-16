@@ -1,6 +1,6 @@
 #!Script  author SID
 #By thatshacker
-#Be a creative person not copy paster
+#welcome to the world of hacking
 
 ###################################
 cyan='\e[0;36m'
